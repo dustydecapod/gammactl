@@ -7,7 +7,7 @@ setup(
     install_requires=[
         'Click',
 		'pydbus',
-        'pygobject'
+        'PyGObject'
     ],
     entry_points={
         'console_scripts': [
